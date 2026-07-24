@@ -1,5 +1,4 @@
-package basicproblems;
-import java.util.*;
+package Basic;
 
 public class basic {
     public static  boolean isEven(int n){
